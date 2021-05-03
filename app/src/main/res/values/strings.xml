@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieBuff</string>
+    <string name="movie_name">Justice League</string>
+    <string name="movie_desc">United we stand</string>
+    <string name="release_date">2018-08-09 (Released)</string>
+    <string name="retry">Retry</string>
+</resources>
